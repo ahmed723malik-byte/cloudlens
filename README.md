@@ -2,7 +2,7 @@
 
 > Multi-cloud infrastructure visualiser and cost optimisation dashboard
 
-[![CI](https://github.com/yourusername/cloudlens/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/cloudlens/actions)
+[![CI](https://github.com/ahmed723malik-byte/cloudlens/actions/workflows/ci.yml/badge.svg)](https://github.com/ahmed723malik-byte/cloudlens/actions)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue)](https://python.org)
 [![Flask](https://img.shields.io/badge/flask-3.1-green)](https://flask.palletsprojects.com)
 
@@ -44,7 +44,7 @@ cloudlens/
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/cloudlens.git
+git clone https://github.com/ahmed723malik-byte/cloudlens.git
 cd cloudlens
 python -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
